@@ -1,0 +1,86 @@
+{
+    "courses":[
+        {
+            "id":1,
+            "title":"Natwork Marketing",
+            "slug": "Network Maketing",
+        "description": "Network Marketing firms seek to leverage the relationships of their salespeople to identify customers and market their products. ",
+        "price":99.99,
+        "instructor":"mali",
+        "isFeatured":true,
+        "image":"Network.jfif"
+        },
+
+        {
+            "id":1,
+            "title":"Email Marketing",
+            "slug": "Email Marketing",
+        "description": "It is a strategy where you send potential customers marketing messages through email.",
+        "price": 99.99,
+        "instructor": "mali",
+        "isFeatured": true,
+        "image":"Email.jfif"
+
+        },
+
+        {
+            "id":1,
+            "title":"Web Developer",
+            "slug": "Web Developer",
+        "description": "It creates fictional, user-friendly websites and web applications.",
+        "price": 99.99,
+        "instructor": "mali",
+        "isFeatured": true,
+        "image":"Web1.jfif"
+
+        },
+
+        {
+            "id":1,
+            "title":"Embedded Developer",
+            "slug": "game-development",
+        "description": "It typically works with languages such as C, c++, Assembly, Java, or propiretary tachnologies, frameworks and tookkits.",
+        "price": 99.99,
+        "instructor": "mali",
+        "isFeatured":true,
+        "image":"Embed.jfif"
+
+        },
+
+        {
+            "id":1,
+            "title":"Backend Developer",
+            "slug": "Backend Developer",
+        "description": "They are experts in system design, implementation, functional logic and performance.",
+        "price": 99.99,
+        "instructor": "mali",
+        "isFeatured": true,
+        "image":"Backend.jfif"
+
+        },
+
+        {
+            "id":1,
+            "title":"AI Engineer",
+            "slug": "AI Engineer",
+        "description": "They work with various programming languages, including Python, Java, R, and C++.",
+        "price": 99.99,
+        "instructor": "mali",
+        "isFeatured": true,
+        "image":"Ai1.jfif"
+
+        },
+
+        {
+            "id":1,
+            "title":"Game Development",
+            "slug": "game-development",
+        "description": "lorem ipsum jijo",
+        "price": 99.99,
+        "instructor": "mali",
+        "isFeatured": false,
+        "image":"h"
+
+        }
+    ]
+}
